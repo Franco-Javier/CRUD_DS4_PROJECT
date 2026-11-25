@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pruebablazor.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b8aef2acd7d66ab1078f156a3cf4fb151617d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pruebablazor.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pruebablazor.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

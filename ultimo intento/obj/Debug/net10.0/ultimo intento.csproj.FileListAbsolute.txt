@@ -1,0 +1,148 @@
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\appsettings.Development.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\appsettings.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ultimo intento.staticwebassets.runtime.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ultimo intento.staticwebassets.endpoints.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ultimo intento.exe
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ultimo intento.deps.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ultimo intento.runtimeconfig.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ultimo intento.runtimeconfig.dev.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ultimo intento.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ultimo intento.pdb
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.csproj.AssemblyReference.cache
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.lib.module.js
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.js
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\HotReload\Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.Config.js
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\HotReload\browser-tools-key.public.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\HotReload\browser-tools-key.private.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.GeneratedMSBuildEditorConfig.editorconfig
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.AssemblyInfoInputs.cache
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.AssemblyInfo.cs
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.csproj.CoreCompileInputs.cache
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.MvcApplicationPartsAssemblyInfo.cs
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.MvcApplicationPartsAssemblyInfo.cache
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\scopedcss\scopedcss.cache
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\scopedcss\bundle\ultimo intento.styles.css
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\compressed\qgcoxrzq91-{0}-tchfgznwy8-tchfgznwy8.gz
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\compressed\yqh6nfk2bb-{0}-17j4hcmrgg-17j4hcmrgg.gz
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\compressed\39d52kgj5z-{0}-v1vy2to33n-v1vy2to33n.gz
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\compressed\0gttadgnqg-{0}-ysew0n4kjn-ysew0n4kjn.gz
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\staticwebassets.build.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\staticwebassets.development.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\swae.build.ex.cache
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo i.60394090.Up2Date
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\refint\ultimo intento.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.pdb
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ultimo intento.genruntimeconfig.cache
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\ref\ultimo intento.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Humanizer.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.Build.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.Build.Tasks.Core.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.Build.Utilities.Core.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Npgsql.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.CodeDom.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Formats.Nrbf.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Resources.Extensions.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\bin\Debug\net10.0\dotnet-tools.json
+D:\DS4-VM-servers\Programa servidor API (Backend)\Proyectos de prueba\ultimo intento\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

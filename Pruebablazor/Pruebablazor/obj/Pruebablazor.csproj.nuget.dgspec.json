@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj": {}
+    "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj": {}
   },
   "projects": {
-    "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj": {
+    "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj",
+        "projectUniqueName": "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj",
         "projectName": "Pruebablazor.Client",
-        "projectPath": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj",
+        "projectPath": "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\obj\\",
+        "outputPath": "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -381,14 +381,14 @@
         }
       }
     },
-    "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj": {
+    "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj",
+        "projectUniqueName": "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj",
         "projectName": "Pruebablazor",
-        "projectPath": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj",
+        "projectPath": "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\obj\\",
+        "outputPath": "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -411,8 +411,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj": {
-                "projectPath": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj"
+              "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj": {
+                "projectPath": "D:\\CRUD_DS4_PROJECT\\Pruebablazor\\Pruebablazor.Client\\Pruebablazor.Client.csproj"
               }
             }
           }

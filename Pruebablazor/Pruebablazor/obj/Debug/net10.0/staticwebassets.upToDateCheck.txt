@@ -47,51 +47,51 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 Components\Layout\ReconnectModal.razor.js
 C:\Users\PC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.15\build\..\_framework\blazor.web.js
 C:\Users\PC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.15\build\..\_framework\blazor.server.js
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\app.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor\Components\Layout\ReconnectModal.razor.js
-C:\Users\PC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.15\_framework\blazor.web.js
 C:\Users\PC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.15\_framework\blazor.server.js
+C:\Users\PC\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.15\_framework\blazor.web.js
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\Components\Layout\ReconnectModal.razor.js
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor\wwwroot\app.css

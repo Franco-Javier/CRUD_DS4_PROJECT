@@ -1,3 +1,5 @@
 D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor.Client\obj\Debug\net10.0\staticwebassets.build.json
 D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor.Client\obj\Debug\net10.0\staticwebassets.build.json
 D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor.Client\obj\Debug\net10.0\staticwebassets.build.json
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor.Client\obj\Debug\net10.0\staticwebassets.build.json
+D:\CRUD_DS4_PROJECT\Pruebablazor\Pruebablazor.Client\obj\Debug\net10.0\staticwebassets.build.json
