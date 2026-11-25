@@ -1,0 +1,97 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Pruebablazor/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly.Server": "10.0.15",
+          "Pruebablazor.Client": "1.0.0"
+        },
+        "runtime": {
+          "Pruebablazor.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly/10.0.15": {
+        "dependencies": {
+          "Microsoft.JSInterop.WebAssembly": "10.0.15"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Components.WebAssembly.dll": {
+            "assemblyVersion": "10.0.15.0",
+            "fileVersion": "10.0.1526.53008",
+            "localPath": "Microsoft.AspNetCore.Components.WebAssembly.dll"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly.Server/10.0.15": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.15"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll": {
+            "assemblyVersion": "10.0.15.0",
+            "fileVersion": "10.0.1526.53008",
+            "localPath": "Microsoft.AspNetCore.Components.WebAssembly.Server.dll"
+          }
+        }
+      },
+      "Microsoft.JSInterop.WebAssembly/10.0.15": {
+        "runtime": {
+          "lib/net10.0/Microsoft.JSInterop.WebAssembly.dll": {
+            "assemblyVersion": "10.0.15.0",
+            "fileVersion": "10.0.1526.53008",
+            "localPath": "Microsoft.JSInterop.WebAssembly.dll"
+          }
+        }
+      },
+      "Pruebablazor.Client/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.15"
+        },
+        "runtime": {
+          "Pruebablazor.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pruebablazor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly/10.0.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YWFk0tbTM25BfeJ2kFuUQ9E2HB0t6GK8jWFm2oIJeTVp3CS7CXGPU/TEpwLvtvK/uQGSX7eL4lpoRQGXgyWJZA==",
+      "path": "microsoft.aspnetcore.components.webassembly/10.0.15",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.10.0.15.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly.Server/10.0.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0fLVpTv9PMxOihGgSCxwTFQ8MOk0He2lqD5Hh97WKhXyZPiOj3N7c3SEBNYwUlk7J4Bv6Qe49G58SldIoJq1EA==",
+      "path": "microsoft.aspnetcore.components.webassembly.server/10.0.15",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.server.10.0.15.nupkg.sha512"
+    },
+    "Microsoft.JSInterop.WebAssembly/10.0.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/UTg2l5MAipHsPlCXBTfTCCLHUsyVeQM+z+QSStjfbP2b4RCrxl9NoKVZ7Ls9heBUT1/4yRjhMbqojl59A/xew==",
+      "path": "microsoft.jsinterop.webassembly/10.0.15",
+      "hashPath": "microsoft.jsinterop.webassembly.10.0.15.nupkg.sha512"
+    },
+    "Pruebablazor.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788185A-EE36-40FD-9F0B-CFEA0CA68292}|Pruebablazor.Client\\Pruebablazor.Client.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B788185A-EE36-40FD-9F0B-CFEA0CA68292}|Pruebablazor.Client\\Pruebablazor.Client.csproj|solutionrelative:pruebablazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788185A-EE36-40FD-9F0B-CFEA0CA68292}|Pruebablazor.Client\\Pruebablazor.Client.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B788185A-EE36-40FD-9F0B-CFEA0CA68292}|Pruebablazor.Client\\Pruebablazor.Client.csproj|solutionrelative:pruebablazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788185A-EE36-40FD-9F0B-CFEA0CA68292}|Pruebablazor.Client\\Pruebablazor.Client.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B788185A-EE36-40FD-9F0B-CFEA0CA68292}|Pruebablazor.Client\\Pruebablazor.Client.csproj|solutionrelative:pruebablazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\models\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\models\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A193A5E-BFB5-481C-B754-86F15EBDD923}|Pruebablazor\\Pruebablazor.csproj|solutionrelative:pruebablazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B788185A-EE36-40FD-9F0B-CFEA0CA68292}|Pruebablazor.Client\\Pruebablazor.Client.csproj|d:\\ds4-vm-servers\\programa cliente (framework)\\pruebablazor\\pruebablazor.client\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B788185A-EE36-40FD-9F0B-CFEA0CA68292}|Pruebablazor.Client\\Pruebablazor.Client.csproj|solutionrelative:pruebablazor.client\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Program.cs",
+              "RelativeDocumentMoniker": "Pruebablazor\\Program.cs",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Program.cs",
+              "RelativeToolTip": "Pruebablazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T01:53:57.175Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\_Imports.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "Pruebablazor\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:43:24.307Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "Pruebablazor\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:41:13.891Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Pruebablazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:41:05.922Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Pruebablazor\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:35:45.107Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Pruebablazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:35:12.105Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Pruebablazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:35:06.804Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Pruebablazor.Client\\Pages\\Counter.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "Pruebablazor.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:33:53.318Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Pruebablazor.Client\\Program.cs",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\Program.cs",
+              "RelativeToolTip": "Pruebablazor.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T01:34:36.104Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Pruebablazor.Client\\_Imports.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\_Imports.razor",
+              "RelativeToolTip": "Pruebablazor.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:33:57.768Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\App.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\App.razor",
+              "RelativeToolTip": "Pruebablazor\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:43:36.686Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\Routes.razor",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Routes.razor",
+              "RelativeToolTip": "Pruebablazor\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-25T01:43:57.899Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Models\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Pruebablazor\\Components\\Models\\PersonDto.cs",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Components\\Models\\PersonDto.cs",
+              "RelativeToolTip": "Pruebablazor\\Components\\Models\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T01:49:48.306Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "Pruebablazor.Client\\wwwroot\\appsettings.json",
+              "ToolTip": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor.Client\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "Pruebablazor.Client\\wwwroot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-25T01:33:36.319Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

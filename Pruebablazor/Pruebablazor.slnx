@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pruebablazor.Client/Pruebablazor.Client.csproj" />
+  <Project Path="Pruebablazor/Pruebablazor.csproj" />
+</Solution>

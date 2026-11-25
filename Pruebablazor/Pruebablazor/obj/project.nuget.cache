@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nfXWqFQG89g=",
+  "success": true,
+  "projectFilePath": "D:\\DS4-VM-servers\\Programa cliente (Framework)\\Pruebablazor\\Pruebablazor\\Pruebablazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.15\\microsoft.aspnetcore.app.internal.assets.10.0.15.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.15\\microsoft.aspnetcore.components.webassembly.10.0.15.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\10.0.15\\microsoft.aspnetcore.components.webassembly.server.10.0.15.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.15\\microsoft.jsinterop.webassembly.10.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

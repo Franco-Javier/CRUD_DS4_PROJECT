@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor.Client\wwwroot\appsettings.Development.json
+D:\DS4-VM-servers\Programa cliente (Framework)\Pruebablazor\Pruebablazor.Client\wwwroot\appsettings.json

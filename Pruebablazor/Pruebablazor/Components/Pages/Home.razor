@@ -1,0 +1,235 @@
+﻿@page "/"
+@using Pruebablazor.Components.Models
+@rendermode InteractiveServer
+@inject HttpClient Http
+
+<PageTitle>Home</PageTitle>
+
+<div class="container mt-4">
+    <h2 class="mb-3">Gestión de Personas</h2>
+
+    <!-- Selector de Servidor (Equivalente a cmbServidor) -->
+    <div class="card mb-4 shadow-sm">
+        <div class="card-body">
+            <label for="selectorServidor" class="form-label fw-bold">Nodo Backend Activo:</label>
+            <select id="selectorServidor" class="form-select" @onchange="CambiarServidorAsync">
+                @foreach (var srv in _servidores)
+                {
+                    <option value="@srv.Value" selected="@(srv.Value == _urlActiva)">
+                        @srv.Key (@srv.Value)
+                    </option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <!-- Alerta de Estado / Errores de Red -->
+    @if (!string.IsNullOrEmpty(_mensajeError))
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>Aviso de Red:</strong> @_mensajeError
+            <button type="button" class="btn-close" @onclick="() => _mensajeError = string.Empty"></button>
+        </div>
+    }
+
+    <!-- Formulario de Datos y Botones CRUD -->
+    <div class="card mb-4 shadow-sm">
+        <div class="card-body">
+            <div class="row g-3 align-items-end">
+                <div class="col-md-5">
+                    <label class="form-label">Nombre</label>
+                    <input type="text" class="form-control" placeholder="Ej. Ana" @bind="_personaActual.Name" />
+                </div>
+                <div class="col-md-3">
+                    <label class="form-label">Edad</label>
+                    <input type="number" class="form-control" min="1" max="120" @bind="_personaActual.Age" />
+                </div>
+                <div class="col-md-4 d-flex gap-2 flex-wrap">
+                    <button class="btn btn-secondary" @onclick="CargarDatosAsync">Consultar</button>
+                    <button class="btn btn-success" @onclick="AgregarPersonaAsync" disabled="@(_personaActual.Id != 0)">Agregar</button>
+                    <button class="btn btn-primary" @onclick="ActualizarPersonaAsync" disabled="@(_personaActual.Id == 0)">Actualizar</button>
+                    <button class="btn btn-danger" @onclick="EliminarPersonaAsync" disabled="@(_personaActual.Id == 0)">Eliminar</button>
+                </div>
+            </div>
+            @if (_personaActual.Id != 0)
+            {
+                <div class="mt-2">
+                    <small class="text-muted">Editando registro ID: <strong>@_personaActual.Id</strong></small>
+                    <button class="btn btn-link btn-sm p-0 ms-2" @onclick="LimpiarCampos">Cancelar selección</button>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- Tabla de Resultados (Equivalente a dgvPeople) -->
+    <div class="table-responsive shadow-sm">
+        <table class="table table-hover table-bordered align-middle mb-0">
+            <thead class="table-dark">
+                <tr>
+                    <th style="width: 80px;">ID</th>
+                    <th>Nombre</th>
+                    <th style="width: 120px;">Edad</th>
+                    <th style="width: 130px;">Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (_cargando)
+                {
+                    <tr>
+                        <td colspan="4" class="text-center py-3">Conectando con @_urlActiva...</td>
+                    </tr>
+                }
+                else if (_personas.Count == 0)
+                {
+                    <tr>
+                        <td colspan="4" class="text-center py-3 text-muted">No hay registros disponibles en este nodo.</td>
+                    </tr>
+                }
+                else
+                {
+                    @foreach (var p in _personas)
+                    {
+                        <tr class="@(p.Id == _personaActual.Id ? "table-info" : "")"
+                            style="cursor: pointer;"
+                            @onclick="() => SeleccionarFila(p)">
+                            <td>@p.Id</td>
+                            <td>@p.Name</td>
+                            <td>@p.Age</td>
+                            <td>
+                                <button class="btn btn-sm btn-outline-dark" @onclick:stopPropagation="true" @onclick="() => SeleccionarFila(p)">
+                                    Seleccionar
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+    private readonly Dictionary<string, string> _servidores = new()
+    {
+        { "Servidor Windows", "http://192.168.1.10:5000/" },
+        { "Servidor Linux",   "http://192.168.1.20:5000/" }
+    };
+
+    private string _urlActiva = "http://192.168.1.10:5000/";
+    private List<PersonDto> _personas = new();
+    private PersonDto _personaActual = new();
+    private string _mensajeError = string.Empty;
+    private bool _cargando = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CargarDatosAsync();
+    }
+
+    private async Task CambiarServidorAsync(ChangeEventArgs e)
+    {
+        if (e.Value is string nuevaUrl && !string.IsNullOrWhiteSpace(nuevaUrl))
+        {
+            _urlActiva = nuevaUrl;
+            LimpiarCampos();
+            await CargarDatosAsync();
+        }
+    }
+
+    // READ
+    private async Task CargarDatosAsync()
+    {
+        _cargando = true;
+        _mensajeError = string.Empty;
+
+        try
+        {
+            var resultado = await Http.GetFromJsonAsync<List<PersonDto>>($"{_urlActiva}api/people");
+            _personas = resultado ?? new List<PersonDto>();
+        }
+        catch (Exception ex)
+        {
+            _personas.Clear();
+            _mensajeError = $"Error conectando a {_urlActiva}: {ex.Message}";
+        }
+        finally
+        {
+            _cargando = false;
+        }
+    }
+
+    // CREATE
+    private async Task AgregarPersonaAsync()
+    {
+        if (string.IsNullOrWhiteSpace(_personaActual.Name)) return;
+
+        try
+        {
+            var response = await Http.PostAsJsonAsync($"{_urlActiva}api/people", _personaActual);
+            if (response.IsSuccessStatusCode)
+            {
+                LimpiarCampos();
+                await CargarDatosAsync();
+            }
+        }
+        catch (Exception ex)
+        {
+            _mensajeError = $"Error al crear registro: {ex.Message}";
+        }
+    }
+
+    // UPDATE
+    private async Task ActualizarPersonaAsync()
+    {
+        if (_personaActual.Id == 0 || string.IsNullOrWhiteSpace(_personaActual.Name)) return;
+
+        try
+        {
+            var response = await Http.PutAsJsonAsync($"{_urlActiva}api/people/{_personaActual.Id}", _personaActual);
+            if (response.IsSuccessStatusCode)
+            {
+                LimpiarCampos();
+                await CargarDatosAsync();
+            }
+        }
+        catch (Exception ex)
+        {
+            _mensajeError = $"Error al actualizar registro: {ex.Message}";
+        }
+    }
+
+    // DELETE
+    private async Task EliminarPersonaAsync()
+    {
+        if (_personaActual.Id == 0) return;
+
+        try
+        {
+            var response = await Http.DeleteAsync($"{_urlActiva}api/people/{_personaActual.Id}");
+            if (response.IsSuccessStatusCode)
+            {
+                LimpiarCampos();
+                await CargarDatosAsync();
+            }
+        }
+        catch (Exception ex)
+        {
+            _mensajeError = $"Error al eliminar registro: {ex.Message}";
+        }
+    }
+
+    private void SeleccionarFila(PersonDto seleccionada)
+    {
+        _personaActual = new PersonDto
+        {
+            Id = seleccionada.Id,
+            Name = seleccionada.Name,
+            Age = seleccionada.Age
+        };
+    }
+
+    private void LimpiarCampos()
+    {
+        _personaActual = new PersonDto { Age = 18 };
+    }
+}
